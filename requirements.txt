@@ -25,7 +25,7 @@ djangorestframework==3.12.2
 
 googletrans==3.0.0
 gunicorn==20.0.4
-gyp==0.1
+
 hidapi==0.11.0.post2
 httpie==2.6.0
 httplib2==0.18.1
